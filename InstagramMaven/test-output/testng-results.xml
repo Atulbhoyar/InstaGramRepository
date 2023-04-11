@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T06:32:29 IST" name="Suite" finished-at="2023-04-02T06:32:53 IST" duration-ms="24538">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T06:32:29 IST" name="ChromeTest" finished-at="2023-04-02T06:32:41 IST" duration-ms="12296">
+      <class name="TestNGClasses.VerifyTheLogInPage">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:29 IST" name="openBrowser" finished-at="2023-04-02T06:32:30 IST" duration-ms="1477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="POMObjects()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:30 IST" name="POMObjects" finished-at="2023-04-02T06:32:30 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMObjects -->
+        <test-method is-config="true" signature="openInstagram()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:30 IST" name="openInstagram" finished-at="2023-04-02T06:32:33 IST" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInstagram -->
+        <test-method signature="verifyFirstLogInWithFacebookButton()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:33 IST" name="verifyFirstLogInWithFacebookButton" finished-at="2023-04-02T06:32:34 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstLogInWithFacebookButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:34 IST" name="afterMethod" finished-at="2023-04-02T06:32:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="openInstagram()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:34 IST" name="openInstagram" finished-at="2023-04-02T06:32:35 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInstagram -->
+        <test-method signature="verifyForgottenYourPasswordButton()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:35 IST" name="verifyForgottenYourPasswordButton" finished-at="2023-04-02T06:32:36 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgottenYourPasswordButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:36 IST" name="afterMethod" finished-at="2023-04-02T06:32:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="openInstagram()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:36 IST" name="openInstagram" finished-at="2023-04-02T06:32:36 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInstagram -->
+        <test-method signature="verifyTheLogInButton()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:36 IST" name="verifyTheLogInButton" finished-at="2023-04-02T06:32:41 IST" duration-ms="4513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheLogInButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:41 IST" name="afterMethod" finished-at="2023-04-02T06:32:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:41 IST" name="afterClass" finished-at="2023-04-02T06:32:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@3f197a46]" started-at="2023-04-02T06:32:41 IST" name="aftertest" finished-at="2023-04-02T06:32:41 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- TestNGClasses.VerifyTheLogInPage -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-04-02T06:32:41 IST" name="EdgeTest" finished-at="2023-04-02T06:32:53 IST" duration-ms="12182">
+      <class name="TestNGClasses.VerifyTheLogInPage">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:41 IST" name="openBrowser" finished-at="2023-04-02T06:32:44 IST" duration-ms="2654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="POMObjects()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:44 IST" name="POMObjects" finished-at="2023-04-02T06:32:44 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMObjects -->
+        <test-method is-config="true" signature="openInstagram()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:44 IST" name="openInstagram" finished-at="2023-04-02T06:32:46 IST" duration-ms="2420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInstagram -->
+        <test-method signature="verifyFirstLogInWithFacebookButton()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:46 IST" name="verifyFirstLogInWithFacebookButton" finished-at="2023-04-02T06:32:49 IST" duration-ms="2186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstLogInWithFacebookButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:49 IST" name="afterMethod" finished-at="2023-04-02T06:32:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="openInstagram()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:49 IST" name="openInstagram" finished-at="2023-04-02T06:32:49 IST" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInstagram -->
+        <test-method signature="verifyForgottenYourPasswordButton()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:49 IST" name="verifyForgottenYourPasswordButton" finished-at="2023-04-02T06:32:50 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgottenYourPasswordButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:50 IST" name="afterMethod" finished-at="2023-04-02T06:32:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="openInstagram()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:50 IST" name="openInstagram" finished-at="2023-04-02T06:32:50 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInstagram -->
+        <test-method signature="verifyTheLogInButton()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:50 IST" name="verifyTheLogInButton" finished-at="2023-04-02T06:32:53 IST" duration-ms="2886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheLogInButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:53 IST" name="afterMethod" finished-at="2023-04-02T06:32:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:53 IST" name="afterClass" finished-at="2023-04-02T06:32:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestNGClasses.VerifyTheLogInPage@52e6fdee]" started-at="2023-04-02T06:32:53 IST" name="aftertest" finished-at="2023-04-02T06:32:53 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- TestNGClasses.VerifyTheLogInPage -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
